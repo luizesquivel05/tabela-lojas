@@ -1,22 +1,60 @@
-### PROJETO TABELA PARA LOJAS
+# SISTEMA DE LOJAS.
 
-## Sobre o projeto:
-Iremos criar uma tabela que compara produçãoXvenda das concessionárias FIAT e FORD, concretizado por HTML5 e CSS3
+<img src="img/lojas.jpg" alt="exemplo imagem">
 
-## O projeto em termos mais técnicos:
-- HTML5, criar tabela e legenda.
-- CSS3, estilizar a tabela e legenda.
+> Site para sistema de lojas.
 
-## Sobre motivações:
-Esse repositório foi criado para concretizar o aprendizado acerca no curso sobre HTML5 e CSS3.
+## 💻 Pré-requisitos:
 
-## Sobre mim:
-Sou Luiz Esquivel, mas pode me chamar de Esquivel, LEsquivel, Dudu ou Esquizando.
+Antes de começar, verifique se você atende aos seguintes requisitos:
+* Você instalou a versão mais recente de seu navegador predileto.
 
-Eu estudo para o ENEM, tenho o desejo de formalizar meus estudos na área de informática, apesar de ter iniciado meus estudos no curso de Bacharelado Interdisciplinar em Ciências e Tecnologia, pela UFBA, em 2021, tive que sair por questões de quórum intímo e força maior.
+## 🚀 Instalando SISTEMA DE LOJAS:
 
-Sempre gostei de resolver problemas matemáticos, usar da lógica e dos métodos matemáticos para resolver problemas. Para mim, programar é sobre isso, sobre resolver problemas com base em lógicas e linguagens.
+Para instalar o SISTEMA DE LOJAS, siga estas etapas:
 
-Além disso, sou amante da literatura e da línguistica, adoro saber sobre como podemos usar dessas áreas para sabermos que a nossa fala é mais do que um conglomerado de palavras soltas.
+No git (rodado pelo terminal):
+```
+    git clone https://github.com/luizesquivel05/tabela-lojas
+```
 
-Também sou amante das áreas de economia, finanças e política externa, gosto de saber sobre como decisões de um pequeno grupo de pessoas podem influenciar grandes grupos de pessoas. Elasticidade e maximização dos mercados são meus maiores gostos.
+## ☕ Usando SISTEMA DE LOJAS:
+
+Para usar SISTEMA DE LOJAS, siga estas etapas:
+
+```
+    Rode o index.html em seu navegadorr preferido
+```
+
+## 📫 Contribuindo para SISTEMA DE LOJAS
+Para contribuir com SISTEMA DE LOJAS, siga estas etapas:
+
+1. Bifurque (clone) este repositório.
+2. Crie um branch: `git checkout -b <nome_branch>`.
+3. Faça suas alterações e confirme-as: `git commit -m '<mensagem_commit>'`
+4. Envie para o branch original: `git push origin SISTEMA DE LOJAS / <local>`
+5. Crie a solicitação de pull.
+
+Como alternativa, consulte a documentação do GitHub em [como criar uma solicitação pull](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
+
+## SUPORTE AO USUÁRIO:
+- Para se conectar, entre em contato via email ou whatsapp: <br>
+&nbsp;&nbsp;&nbsp;Wpp: +55 (27) 9 9959-7818 (também atende ligações).
+&nbsp;&nbsp;&nbsp;Email: luizpontes.esquivel@gmail.com
+
+## 🤝 Colaboradores:
+
+Agradecemos às seguintes pessoas que contribuíram para este projeto:
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/luizesquivel/">
+        <img src="img/luiz.png" width="100px;" alt="Foto de Luiz Esquivel"/><br>
+        <sub>
+          <b>Luiz Esquivel - 20 anos, médio completo, analista de Desenvolvimento de Sistemas.</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
